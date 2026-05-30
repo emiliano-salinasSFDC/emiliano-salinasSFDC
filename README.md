@@ -7,7 +7,7 @@
 
 <p align="left">
   <img src="https://img.shields.io/badge/Status-Actively%20Learning-green?style=flat-square" alt="Status"/>
-  <img src="https://img.shields.io/badge/Role-Associate%20Technical%20Consultant%20Intern-blue?style=flat-square" alt="Role"/>
+  <img src="https://img.shields.io/badge/Role-Junior%20Associate%20Technical%20Consultant%20-blue?style=flat-square" alt="Role"/>
 </p>
 
 I'm a **Data Intelligence and Cybersecurity Engineer** and a current **MSc. Data Science student**, passionate about creating efficient and secure technological solutions. My goal is to combine data analysis with software development to solve complex problems.
